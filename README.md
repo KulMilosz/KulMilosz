@@ -1,8 +1,8 @@
 # 💫 About Me
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 250px;">
 
 🔧 Jestem w trakcie nauki fullstack web developmentu  
 🔄 Przebranżawiam się do IT  
@@ -10,8 +10,9 @@
 🧑‍💻 Szukam pierwszych doświadczeń w branży IT  
 🎓 Uczę się z DevStock Academy i rozwijam się codziennie  
 
-</td>
-<td valign="top" width="50%">
+</div>
+
+<div style="flex: 1; min-width: 250px;">
 
 🔧 I'm currently learning fullstack web development  
 🔄 Transitioning into the IT industry  
@@ -19,9 +20,9 @@
 🧑‍💻 Looking for my first real-world experience in tech  
 🎓 Studying with DevStock Academy and improving every day  
 
-</td>
-</tr>
-</table>
+</div>
+
+</div>
 
 
 

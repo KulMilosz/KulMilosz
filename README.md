@@ -1,5 +1,10 @@
 # 💫 About Me:
-🔧 Jestem w trakcie nauki fullstack web developmentu  <br>🔄 Przebranżawiam się do IT  <br>🚀 Tworzę własne projekty i buduję portfolio  <br>🧑‍💻 Szukam pierwszych doświadczeń w branży IT<br><br>🎓 Uczę się z DevStock Academy i rozwijam się codziennie  
+🔧 I'm currently learning fullstack web development  <br>
+🔄 Transitioning into the IT industry  <br>
+🚀 Building personal projects and growing my portfolio  <br>
+🧑‍💻 Looking for my first real-world experience in tech  <br><br>
+🎓 Studying with DevStock Academy and improving every day
+
 
 
 ## 🌐 Socials:

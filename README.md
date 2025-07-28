@@ -1,12 +1,30 @@
 # 💫 About Me
 
-| 🇵🇱 Po polsku                          | 🇬🇧 In English                          |
-|-------------------------------------|--------------------------------------|
-| 🔧 Jestem w trakcie nauki fullstack web developmentu | 🔧 I'm currently learning fullstack web development |
-| 🔄 Przebranżawiam się do IT          | 🔄 Transitioning into the IT industry |
-| 🚀 Tworzę własne projekty i buduję portfolio | 🚀 Building personal projects and growing my portfolio |
-| 🧑‍💻 Szukam pierwszych doświadczeń w branży IT | 🧑‍💻 Looking for my first real-world experience in tech |
-| 🎓 Uczę się z DevStock Academy i rozwijam się codziennie | 🎓 Studying with DevStock Academy and improving every day |
+<div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
+
+<div style="flex: 1; min-width: 250px;">
+
+                PL
+🔧 Jestem w trakcie nauki fullstack web developmentu  
+🔄 Przebranżawiam się do IT  
+🚀 Tworzę własne projekty i buduję portfolio  
+🧑‍💻 Szukam pierwszych doświadczeń w branży IT  
+🎓 Uczę się z DevStock Academy i rozwijam się codziennie  
+
+</div>
+
+<div style="flex: 1; min-width: 250px;">
+
+                ENG
+🔧 I'm currently learning fullstack web development  
+🔄 Transitioning into the IT industry  
+🚀 Building personal projects and growing my portfolio  
+🧑‍💻 Looking for my first real-world experience in tech  
+🎓 Studying with DevStock Academy and improving every day  
+
+</div>
+
+</div>
 
 
 

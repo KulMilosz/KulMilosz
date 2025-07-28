@@ -5,7 +5,7 @@
 <div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
   <div style="flex: 1; min-width: 300px;">
-    <h3>🇵🇱 O mnie (PL)</h3>
+    <h3>PL</h3>
     <ul>
       <li>🔧 Jestem w trakcie nauki fullstack web developmentu</li>
       <li>🔄 Przebranżawiam się do IT</li>
@@ -16,7 +16,7 @@
   </div>
 
   <div style="flex: 1; min-width: 300px;">
-    <h3>🇬🇧 About me (ENG)</h3>
+    <h3>ENG</h3>
     <ul>
       <li>🔧 I'm currently learning fullstack web development</li>
       <li>🔄 Transitioning into the IT industry</li>

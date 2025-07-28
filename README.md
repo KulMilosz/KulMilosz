@@ -1,7 +1,5 @@
 # 💫 About Me
 
-# 💫 About Me
-
 <div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
   <div style="flex: 1; min-width: 300px;">

@@ -4,7 +4,6 @@
 
 <div style="flex: 1; min-width: 250px;">
 
-                PL
 🔧 Jestem w trakcie nauki fullstack web developmentu  
 🔄 Przebranżawiam się do IT  
 🚀 Tworzę własne projekty i buduję portfolio  
@@ -15,7 +14,6 @@
 
 <div style="flex: 1; min-width: 250px;">
 
-                ENG
 🔧 I'm currently learning fullstack web development  
 🔄 Transitioning into the IT industry  
 🚀 Building personal projects and growing my portfolio  

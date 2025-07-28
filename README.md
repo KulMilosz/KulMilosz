@@ -1,9 +1,8 @@
-# 💫 About Me:
 # 💫 About Me
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="50%">
 
 🔧 Jestem w trakcie nauki fullstack web developmentu  
 🔄 Przebranżawiam się do IT  
@@ -11,8 +10,8 @@
 🧑‍💻 Szukam pierwszych doświadczeń w branży IT  
 🎓 Uczę się z DevStock Academy i rozwijam się codziennie  
 
-  </td>
-  <td>
+</td>
+<td valign="top" width="50%">
 
 🔧 I'm currently learning fullstack web development  
 🔄 Transitioning into the IT industry  
@@ -20,8 +19,8 @@
 🧑‍💻 Looking for my first real-world experience in tech  
 🎓 Studying with DevStock Academy and improving every day  
 
-  </td>
-  </tr>
+</td>
+</tr>
 </table>
 
 

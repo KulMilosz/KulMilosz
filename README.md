@@ -4,7 +4,7 @@
 
 <div style="flex: 1; min-width: 300px;">
   <ul>
-    <li>🔧 Learning:
+    <li>📖 Learning:
       <ul>
         <li>⚙️ DevOps</li>
         <li>💻 Fullstack Web Development</li>

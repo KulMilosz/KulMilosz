@@ -2,28 +2,19 @@
 
 <div style="display: flex; gap: 40px; flex-wrap: wrap; align-items: flex-start;">
 
-  <div style="flex: 1; min-width: 300px;">
-    <h3>PL</h3>
-    <ul>
-      <li>🔧 Jestem w trakcie nauki fullstack web developmentu</li>
-      <li>🔄 Przebranżawiam się do IT</li>
-      <li>🚀 Tworzę własne projekty i buduję portfolio</li>
-      <li>🧑‍💻 Szukam pierwszych doświadczeń w branży IT</li>
-      <li>🎓 Uczę się z DevStock Academy i rozwijam się codziennie</li>
-    </ul>
-  </div>
-
-  <div style="flex: 1; min-width: 300px;">
-    <h3>ENG</h3>
-    <ul>
-      <li>🔧 I'm currently learning fullstack web development</li>
-      <li>🔄 Transitioning into the IT industry</li>
-      <li>🚀 Building personal projects and growing my portfolio</li>
-      <li>🧑‍💻 Looking for my first real-world experience in tech</li>
-      <li>🎓 Studying with DevStock Academy and improving every day</li>
-    </ul>
-  </div>
-
+<div style="flex: 1; min-width: 300px;">
+  <ul>
+    <li>🔧 Learning:
+      <ul>
+        <li>⚙️ DevOps</li>
+        <li>💻 Fullstack Web Development</li>
+      </ul>
+    </li>
+    <li>🔄 Transitioning into the IT industry</li>
+    <li>🚀 Building personal projects and growing my portfolio</li>
+    <li>🧑‍💻 Looking for my first real-world experience in tech</li>
+    <li>🎓 Studying with DevStock Academy and improving every day</li>
+  </ul>
 </div>
 
 

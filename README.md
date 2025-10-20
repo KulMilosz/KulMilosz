@@ -7,7 +7,6 @@
     <li>📖 Learning:
       <ul>
          <li>💻 Fullstack Web Development</li>
-        <li>⚙️ DevOps</li>
       </ul>
     </li>
     <li>🔄 Transitioning into the IT industry</li>
